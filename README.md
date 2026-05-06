@@ -33,10 +33,11 @@ The repository includes code for:
   Computes bootstrap-based MSE measures for MERF and MA-MERF under the PDHS-based bootstrap study.
 
 ### Data files
-Due to data-use restrictions, the PDHS/DHS dataset is not included in this repository.
-Researchers wishing to reproduce the analysis may obtain the data directly from The DHS Program and place the required files locally before running the scripts.
-The simulated dataset is also not uploaded because of file-size limitations, but it can be generated directly by running the simulation data generation script provided in this repository.
-For questions about the code structure or data preparation steps, readers may contact the corresponding author.
+
+-`Due to data-use restrictions, the PDHS/DHS dataset is not included in this repository.`
+-`Researchers wishing to reproduce the analysis may obtain the data directly from The DHS Program and place the required files locally before running the scripts.`
+-`The simulated dataset is also not uploaded because of file-size limitations, but it can be generated directly by running the simulation data generation script provided in this repository.`
+-`For questions about the code structure or data preparation steps, readers may contact the corresponding author.`
 ---
 
 ## Software used
